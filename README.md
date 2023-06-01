@@ -1,12 +1,11 @@
-<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/duckly-blog/2021/09/how-to-start.gif">
 <h1 align="center">Hi 👋, I'm Lufuno Nemudzivhadi</h1>
 <h3 align="center">A passionate software developer from South Africa.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 </br>
-</br>
-- 🔭 I’m currently a **Software Development student at Rosebank college**
 
-- 🌱 I’m currently learning **Android & Oracle**
+- 🔭 I’m currently a **Information Technology In Software Development Student**
+
+- 🌱 I’m currently learning **Kotlin Android App Development & Oracle Database**
 
 - 👨‍💻 All of my projects are available at [https://github.com/codebyLFN](https://github.com/codebyLFN)
 
@@ -29,4 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codebylfn&show_icons=true&locale=en" alt="codebylfn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebylfn&" alt="codebylfn" /></p>
+
+
 
