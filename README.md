@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kotlin Android App Development & Oracle Database**
 
-- 👨‍💻 All of my projects are available at [https://github.com/codebyLFN](https://github.com/codebyLFN)
+- 👨‍💻 All of my projects are available at [https://github.com/lufuno-nemudzivhadi026](https://github.com/lufuno-nemudzivhadi026)
 
 - 📫 How to reach me **lufuno.nemudzivhadi26@outlook.com**
 
