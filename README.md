@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently a **Information Technology In Software Development Student**
 
-- 🌱 I’m currently learning **Kotlin Android App Development & Oracle Database**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/codebyLFN](https://github.com/codebyLFN)
 
