@@ -5,7 +5,7 @@
 </p> -->
 <p align="center">
    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400"> 
-   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeBYLFN" alt="codeBYLFN" /></a> 
+   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeBYLFN&theme=onedark" alt="codeBYLFN" /></a> 
 </p>
 
 <!-- - 🔭 I’m currently a **Information Technology In Software Development Student** -->
@@ -45,11 +45,11 @@
   <img alt="visual studio code" width="50px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />  
   <img src="https://img.icons8.com/color/512/old-vmware-logo.png" width="50px" /> 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codebylfn&show_icons=true&locale=en&layout=compact" alt="codebylfn" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codebylfn&show_icons=true&locale=en&layout=compact&theme=buefy&hide_border=true" alt="codebylfn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codebylfn&show_icons=true&locale=en" alt="codebylfn" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codebylfn&show_icons=true&locale=en&theme=buefy&hide_border=true" alt="codebylfn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebylfn&" alt="codebylfn" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebylfn&theme=buefy&hide_border=true" alt="codebylfn" /></p>
 
 
 
