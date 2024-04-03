@@ -45,11 +45,9 @@
   <img alt="visual studio code" width="50px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />  
   <img src="https://img.icons8.com/color/512/old-vmware-logo.png" width="50px" /> 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codebylfn&show_icons=true&locale=en&layout=compact&theme=buefy&hide_border=true" alt="codebylfn" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codebylfn&show_icons=true&locale=en&theme=buefy&hide_border=true" alt="codebylfn" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebylfn&theme=buefy&hide_border=true" alt="codebylfn" /></p>
-
-
-
+<h3>📉 <b>Stats:</b></h3>
+<p>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codebylfn&show_icons=true&locale=en&layout=compact&theme=buefy&hide_border=true" alt="codebylfn" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=codebylfn&show_icons=true&locale=en&theme=buefy&hide_border=true" alt="codebylfn" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebylfn&theme=buefy&hide_border=true" alt="codebylfn" />
+</p>
