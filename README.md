@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lufuno Nemudzivhadi</h1>
 <h3 align="center">🚀 A passionate software developer from South Africa</h3>
-<!-- <p align="left">
-      <img src="https://komarev.com/ghpvc/?username=codeBYLFN&label=Profile%20views&color=0e75b6&style=flat" alt="codeBYLFN" />
+<!--<p align="left">
+      <img src="https://komarev.com/ghpvc/?username=codeWithLFN&label=Profile%20views&color=0e75b6&style=flat" alt="codeBYLFN" />
 </p> -->
 <p align="center">
    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400"> 
-   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeBYLFN&theme=onedark" alt="codeBYLFN" /></a> 
+   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeWithLFN&theme=onedark" alt="codeBYLFN" /></a> 
 </p>
 
 <!-- - 🔭 I’m currently a **Information Technology In Software Development Student** -->
@@ -47,7 +47,7 @@
 </p>
 <h3>📉 <b>Stats:</b></h3>
 <p>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codebylfn&show_icons=true&locale=en&layout=compact&theme=buefy&hide_border=true" alt="codebylfn" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=codebylfn&show_icons=true&locale=en&theme=buefy&hide_border=true" alt="codebylfn" />
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebylfn&theme=buefy&hide_border=true" alt="codebylfn" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithlfn&show_icons=true&locale=en&layout=compact&theme=buefy&hide_border=true" alt="codebylfn" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithlfn&show_icons=true&locale=en&theme=buefy&hide_border=true" alt="codebylfn" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithlfn&theme=buefy&hide_border=true" alt="codebylfn" />
 </p>
