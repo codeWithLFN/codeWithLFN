@@ -4,7 +4,7 @@
 <p align="center">
    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400"> 
    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=codeWithLFN&theme=onedark" alt="codeBYLFN" />
+      <img src="https://github-profile-trophy.vercel.app/?username=codeWithLFN&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="codeBYLFN" />
    </a> 
 </p>
 
