@@ -32,17 +32,10 @@
    </p>
 </div>
 
-<div>
-   <h2>Connect with me:</h2>
-   <p align="left">
-      <a href="https://linkedin.com/in/lufuno-nemudzivhadi026">
-         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>
-      <a href="https://instagram.com/hyperlfn">
-         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-      </a>
-   </p>
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lufuno-nemudzivhadi026) [ ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/hyperlfn) 
+
+  
 
 <div style="background-color: #ffe4e1; padding: 20px; border-radius: 10px;">
    <h2>🛠️ Languages and Tools:</h2>
