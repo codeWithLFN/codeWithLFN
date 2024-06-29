@@ -25,17 +25,21 @@
 
 <div style="background-color: #f0e68c; padding: 20px; border-radius: 10px;">
    <h2>📫 How to reach me:</h2>
-   <p>Email: lufuno.nemudzivhadi26@outlook.com</p>
+   <p>
+      <a href="mailto:lufuno.nemudzivhadi26@outlook.com">
+         <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+      </a>
+   </p>
 </div>
 
-<div style="background-color: #add8e6; padding: 20px; border-radius: 10px;">
+<div>
    <h2>Connect with me:</h2>
    <p align="left">
-      <a href="https://linkedin.com/in/lufuno-nemudzivhadi026" target="_blank">
-         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lufuno-n-a26a9a18a" height="30" width="40" />
+      <a href="https://linkedin.com/in/lufuno-nemudzivhadi026">
+         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
-      <a href="https://instagram.com/hyperlfn" target="_blank">
-         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hyperlfn" height="30" width="40" />
+      <a href="https://instagram.com/hyperlfn">
+         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
       </a>
    </p>
 </div>
