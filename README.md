@@ -50,8 +50,8 @@ I explore modern tech with a hacker-punk mindset — innovation, curiosity, and 
 ## 🧬 **GitHub Analytics — Cyber Mode**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codeWithLFN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0F1F&title_color=00E5FF&icon_color=ff00ff" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeWithLFN&theme=tokyonight&hide_border=true&background=0A0F1F00&currStreakLabel=00E5FF&sideNums=00E5FF" height="160"/>
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeWithLFN&theme=neon-dark&hide_border=true&background=0A0F1F&currStreakLabel=ff00ff&sideNums=00e5ff" />
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeWithLFN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0F1F&title_color=00E5FF" height="140"/>
